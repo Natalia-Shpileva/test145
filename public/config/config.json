@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x5E5b9e1Ca8c2462f9Bf3d9F028478f03c4aA2A2a",
-  "SCAN_LINK": "https://polygonscan.com/token/0x5e5b9e1ca8c2462f9bf3d9f028478f03c4aa2a2a",
+  "CONTRACT_ADDRESS": "0xF2d40536421d5d9a089A817111252685F250AbcE",
+  "SCAN_LINK": "https://polygonscan.com/address/0xf2d40536421d5d9a089a817111252685f250abce",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "MATIC",
     "ID": 137
   },
-  "NFT_NAME": "Test Sly Bulls",
-  "SYMBOL": "TSLB",
-  "MAX_SUPPLY": 10,
+  "NFT_NAME": "SLY BULLS 22",
+  "SYMBOL": "SBL22",
+  "MAX_SUPPLY": 10000,
   "WEI_COST": 1000000000000000000,
   "DISPLAY_COST": 1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/test145-v2",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/sly-bulls-22",
   "SHOW_BACKGROUND": true
 }
